@@ -39,7 +39,7 @@ The Hospitality Performance Dashboard provides a comprehensive analysis of hotel
 ## ▶️ How to Use
 1. Download the dashboard file  
 2. Open using:
-   - Excel / Power BI / Tableau (based on file type)  
+   - Power BI 
 3. Use filters (city, category) to explore insights  
 4. Interact with visuals for deeper analysis  
 
