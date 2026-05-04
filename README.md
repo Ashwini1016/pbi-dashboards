@@ -1,4 +1,4 @@
-🔍 Project Overview
+🔍## Project Overview:
 The Google Ads Performance Dashboard provides a comprehensive analysis of digital marketing campaigns by tracking key performance indicators such as cost, impressions, clicks, CTR, and CPC. It enables stakeholders to monitor campaign efficiency, identify trends over time, and optimize ad spend for better marketing outcomes.
 🎯 Objectives
 Analyze overall campaign performance across multiple years (2024–2026)
